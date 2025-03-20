@@ -6,3 +6,11 @@ Steps to reproduce:
 3. Set network throttling set to "Fast 4G".
 4. Enable device simulation and choose "Moto G power" mobile (or any device at `412px` or `425px` width)
 5. Run a performance audit
+
+**When bug triggers**
+
+![Exhibits bug](./has-bug.png)
+
+**When it doesn't**
+
+![No bug](./no-bug.png)
